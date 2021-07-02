@@ -1,18 +1,100 @@
+body{
+  background-image: url('https://images.unsplash.com/photo-1531685250784-7569952593d2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=667&q=80');
+}
 .App {
   text-align: center;
 }
-
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.main{
+  display: grid;
+  justify-content: center;
+  align-items: center;
+  background-color: rgba(189, 189, 189, 0.356);
+  border-radius: 30px;
+  padding-top: 40px;
+  padding-bottom: 40px;
+ height:40vh;
+ width:30vw;
 }
+.main1{
+  height: 55vh !important;;
+}
+.dot{margin:3vh;
+  cursor: pointer;
+}
+.merge{display: flex;
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
+}
+h2{margin: 0px;}
+.text{
+  text-align: right;
+  cursor: pointer;}
+.alignment{
+  /* background-color: rgba(118, 118, 231, 0.932); */
+  border-radius: 0.5rem;
+  padding-left: 1vw;
+  padding-right: 1vw;
+  margin: 5rem 8rem 1rem 8rem;
+  display: flex;
+ justify-content: center;
+}
+.seprate{
+  display: grid;
+  justify-content: center;
+  align-items: center;
+}
+.box{
+  height:5vh;
+  width:19vw;
+  border-radius: 3px;
+  /* margin:1vh 0.2vw */
+}
+.box1{
+  height:5vh;
+  width:19vw;
+  margin:1vh 0.2vw;
+  border-radius: 3px;
+}
+.button{
+  height:5vh;
+  width: 22.5vw;
+  background-color: #282c3454 !important;
+  cursor: pointer;
+  /* margin:2vh; */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 3px;
+}
+.sub{
+  border: #282c34;
+}
+.proper{display: flex;
+  align-items: center;
   }
-}
 
+.forms{
+  margin: 2vh;
+  display: grid;
+  
+  justify-content:center;
+  align-items: center;
+}
+.parent{
+  display:flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+.head{
+  background-color:rgba(189, 189, 189, 0.356);;
+  border-radius: 15px;
+  display: grid;
+  align-items: center;
+ 
+  justify-content: center;
+  height: 30vh;
+  width: 25vw;
+  margin: 10px;
+}
 .App-header {
   background-color: #282c34;
   min-height: 100vh;
@@ -28,11 +110,3 @@
   color: #61dafb;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
-}
