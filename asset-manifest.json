@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/user-auth-firebase/static/css/main.7a07b81b.chunk.css",
+    "main.js": "/user-auth-firebase/static/js/main.45ede6d7.chunk.js",
+    "main.js.map": "/user-auth-firebase/static/js/main.45ede6d7.chunk.js.map",
+    "runtime-main.js": "/user-auth-firebase/static/js/runtime-main.cd1a58d8.js",
+    "runtime-main.js.map": "/user-auth-firebase/static/js/runtime-main.cd1a58d8.js.map",
+    "static/js/2.686f1e69.chunk.js": "/user-auth-firebase/static/js/2.686f1e69.chunk.js",
+    "static/js/2.686f1e69.chunk.js.map": "/user-auth-firebase/static/js/2.686f1e69.chunk.js.map",
+    "static/js/3.255c9830.chunk.js": "/user-auth-firebase/static/js/3.255c9830.chunk.js",
+    "static/js/3.255c9830.chunk.js.map": "/user-auth-firebase/static/js/3.255c9830.chunk.js.map",
+    "index.html": "/user-auth-firebase/index.html",
+    "static/css/main.7a07b81b.chunk.css.map": "/user-auth-firebase/static/css/main.7a07b81b.chunk.css.map",
+    "static/js/2.686f1e69.chunk.js.LICENSE.txt": "/user-auth-firebase/static/js/2.686f1e69.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/user-auth-firebase/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cd1a58d8.js",
+    "static/js/2.686f1e69.chunk.js",
+    "static/css/main.7a07b81b.chunk.css",
+    "static/js/main.45ede6d7.chunk.js"
+  ]
+}
